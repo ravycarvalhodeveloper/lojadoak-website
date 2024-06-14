@@ -120,7 +120,7 @@ export default function Home() {
             </Fade>
 
               <h1 className="font-custom font-light text-center text-xl mb-4 mt-6">
-                <strong className="font-bold">D'oak</strong>, seu estilo se faz aqui!
+                <strong className="font-bold">D'oak</strong>, Teste!
               </h1>
 
 
