@@ -39,7 +39,7 @@ export default function Contact() {
     }
 
     return (
-     <div className="pt-28  lg:pt-56">
+     <div className="pt-28 flex items-center justify-center lg:h-screen">
         <Fade>
          <Container>
             
