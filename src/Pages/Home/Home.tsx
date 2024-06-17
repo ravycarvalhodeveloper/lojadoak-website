@@ -106,7 +106,7 @@ export default function Home() {
               <section className=" bg-doak-whiteff p-4 rounded-lg w-full max-w-3xl mx-auto flex justify-center items-center gap-2">
                   <input 
                       className="w-full font-custom text-xs border-2 rounded-lg h-9 px-3 outline-none"
-                    placeholder="Digite o nome do carro..."
+                    placeholder="Digite o nome do produto..."
                     value={input}
                     onChange={ (e) => setInput(e.target.value)}
                   />
