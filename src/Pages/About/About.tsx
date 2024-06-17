@@ -4,7 +4,7 @@ import { Fade } from "react-awesome-reveal"
 
 export default function About() {
     return (
-        <div className="pt-36">
+        <div className="pt-28 flex items-center justify-center lg:h-screen">
             <Container>
                
                 <div className=" w-full flex items-center justify-center flex-col gap-4">
