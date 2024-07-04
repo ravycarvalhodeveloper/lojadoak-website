@@ -28,7 +28,7 @@ export default function Header() {
                </Fade>
 
                <Fade  direction="right" cascade damping={1.0}>
-                  <nav className='flex gap-10 mobile:hidden lg:flex'>
+                  <nav className='flex  mobile:hidden lg:flex'>
                             <Link to="/" className='text-doak-white font-custom font-bold hover:text-doak-grey hover:scale-125 transition-all'>Início</Link>
                             <Link to="/about" className='text-doak-white font-custom font-bold hover:text-doak-grey hover:scale-125 transition-all'>Sobre</Link>
                             <Link to="/contact" className='text-doak-white font-custom font-bold hover:text-doak-grey hover:scale-125 transition-all'>Contatos</Link>
